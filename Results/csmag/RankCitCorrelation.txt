@@ -1,0 +1,15 @@
+Int-ID		Correlation			Title
+----------------------------------------------------------------------
+29348		0.4751		Low Density Parity Check Codes
+412928		0.4806		Particle swarm optimization
+344538		0.6695		Identity-based cryptosystems and signature schemes
+523387		0.6286		An algorithm for tracking multiple targets
+235719		0.2817		The complexity of theorem-proving procedures
+466535		0.3091		On the security of public key protocols
+34678		0.5583		A Complexity Measure(soft engg)
+406001		-0.0449		Formal requirements for virtualizable third generation architectures
+520119		-0.1721		Stochastic approximation algorithms and applications
+520628		0.5301		Fuzzy clustering with a fuzzy covariance matrix
+478023		0.3981		Query-by-example (the invocation and definition of tables and forms)
+347464		0.3815		A Statistical Model for Indoor Multipath Propagation
+

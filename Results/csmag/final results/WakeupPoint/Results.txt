@@ -1,0 +1,32 @@
+'''
+--------------------------------------approach 1--------------------------------------
+result for peaking period
+---------------------------
+(lower rank index is better)
+corr(cit,1/rank) =0.691
+corr(Citrate,1/rank)=0.3453.
+
+
+
+result for wake period
+------------------------
+x=1./[786,623,2041,5380,81,64,38492,94481,5523,8803,1198,28541,10225,250663,1636,503,40]
+y=[4,6,2,2,6,4,8,4,5,2,2,5,8,3,3,4,7]
+rt=[5.75,3.16,10.5,2.5,19.16,6,7.5,2,1.8,5.5,5,4.59,0.625,6.33,2.66,6.5,1.28]
+
+corr(waking period length,1/rank)= 0.3222
+corr(Citrate,1/rank)= 0.15
+
+--------------------------------------approach 2--------------------------------------
+result for peaking period
+---------------------------
+(lower rank index is better)
+corr(cit,1/rank) =0.7551
+corr(Citrate,1/rank)=0.2196.
+
+
+result for wake period
+-----------------------
+corr(cit,1/rank) =0.40
+corr(Citrate,1/rank)=0.26
+corr(wakeup duration,1/rank)=0.15

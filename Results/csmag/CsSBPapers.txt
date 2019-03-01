@@ -1,0 +1,55 @@
+Sr.No	IntIDs	Pap ID			Paper Title	|	Pub Year	|	Beauty Coefficient
+-----------------------------------------------------------------------------------------------------------
+1	29348	0EB4B625	Low Density Parity Check Codes	1963	747.87
+2	412928	03EE9B60	Particle swarm optimization	1995	389.80
+3	344538	04021F52	Identity-based cryptosystems and signature schemes	1985	306.61
+4	523387	099B12BA	An algorithm for tracking multiple targets	1978	188.38
+5	235719	0427DE32	The complexity of theorem-proving procedures	1971	176.10
+6	466535	01BC377D	On the security of public key protocols		1981	159.09
+7	34678	06C09783	A Complexity Measure(soft engg)	1976	155.79
+8	406001	095822D5	Formal requirements for virtualizable third generation architectures	1973	137.72
+9	520119	0786D85A	Stochastic approximation algorithms and applications	1973	124.37
+10	520628	0BB77B1E	Fuzzy clustering with a fuzzy covariance matrix	1978	123.43
+11	478023	0174AD58	Query-by-example (the invocation and definition of tables and forms)	1975	115.55
+12	466547	04C0782A	A n^5/2 Algorithm for Maximum Matchings in Bipartite Graphs	1971	115.04
+13	66242	0783E953	An optimal class of symmetric key generation systems	1985	114.31
+14	347464	0EF74322	A Statistical Model for Indoor Multipath Propagation	1986	109.30
+15	104994	09064B66	Towards automatic visual obstacle avoidance	1977	108.51
+16	236251	0566875D	Approximation algorithms for combinatorial problems	1973	101.13
+17	89195	09F69E2E	Automatic acquisition of hyponyms from large text corpora	1992	100.63
+18	165321	14DB25BA	Disjoint paths in a network	1974	99.84
+19	499215	043125E1	Abstract interpretation (a unified lattice model for static analysis of programs by construction or approximation of fixpoints)	1977	98.22
+20	466838	42745679	Probabilistic computations: Toward a unified measure of complexity	1977	94.56
+21	209175	0DD20270	Testing Software Design Modeled by Finite State Machines	1977	92.77
+22	106578	0638B228	Parametric correspondence and chamfer matching: two new techniques for image matching	1977	86.80
+23	523578	0AF368E4	Recursive state estimation: Unknown but bounded errors and system inputs	1967	85.90
+24	229585	1326A34F	The Monte Carlo Method	1974	85.71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+high
+-----
+938   = 184.794  Junctional complexes in various epithelia
+
+4833  = 128.021  Voltage oscillations in the barnacle giant muscle fiber
+
+3385  = 125.811  Branch input resistance and steady attenuation for input to one branch of a dendritic neuron model
+
+4055  = 99.920   Electrophysiology of guinea-pig cerebellar nuclear cells in the in vitro brain stem-cerebellar preparation
+
+454   = 92.710   A physiological mechanism for Hebb's postulate of 		 learning
+
+low
+-----
+
+28976 =  1.665e-16 Differential role of autophagy in CD4 T cells and 		   		   macrophages during X4 and R5 HIV-1 infection.
+
+15493 = -2.333	 Determination of interactions between tegument proteins 		         of herpes simplex virus type 1
